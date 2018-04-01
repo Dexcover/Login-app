@@ -1,0 +1,53 @@
+body{
+    font-family: 'Lora', serif;
+
+}
+
+.prioridad{
+    width: 50%;
+    height: 50%;
+
+}
+
+.celda{
+    width: 15%;
+    height: 40%;
+}
+
+.text-muted{
+    color:#BCBBBB;
+}
+.text-thin{
+    font-weight: 50;
+}
+
+.title-super{
+    font-size: 25px;
+}
+.title-logo{
+    margin-top: 10px;
+}
+.boton-margen{
+    margin-bottom: : 10px;
+}
+
+.margen-fin{
+    margin: 60px;
+}
+.icon-acciones{
+    font-size: 20px;
+}
+.color-fin{
+    font-size: 25px;
+    color:#330099;
+}
+
+.boton-borde{
+    margin-bottom: 5px;
+}
+
+
+
+h3{
+    color:black;
+}
